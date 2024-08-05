@@ -1,4 +1,4 @@
-module github.com/amitybell/piper-bin-macos
+module github.com/nabbl/piper-bin-macos
 
 go 1.21
 
